@@ -98,7 +98,10 @@ To run the system correctly:
 
 The image below shows the final menu-driven interface presented to the user when the system is running:
 
-![Video Store Management System](assets/vsms_ui.png)
+![Video Store Management System UI](../assets/vsms_ui.png)
+
+
+
 
 
 This interface allows users to:
