@@ -1,3 +1,7 @@
+![Video Store Management System](assets/py_image.png)
+
+
+
 # Video Store Management System (Python & MySQL)
 
 This project is a **database-driven Video Store Management System** built using **Python, MySQL, and Object-Oriented Programming (OOP)** principles.
